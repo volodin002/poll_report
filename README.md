@@ -4,8 +4,9 @@ Yandex Form results processing. Create Excel report from Yandex Form results dat
 Build:
 > go build
 
-Run:
+Run with default configuration file config.yaml:
 > poll_report.exe
-or
+
+Run with config_v1.yaml configuration file
 > poll_report.exe config_v1.yaml
 
